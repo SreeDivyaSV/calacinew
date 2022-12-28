@@ -5,7 +5,7 @@ import json
 
 import unittest
 
-
+print("hello")
 
 
 def lambda_handler(event, context):
